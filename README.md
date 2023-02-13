@@ -1,4 +1,8 @@
 ### Olá! sou o Yohan Kael, estudante de programação e tecnologia!
+##Meios de contato:
+<div>
+  <a href="mailto:yohankael.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
+  </div>
 
 
 ![Yohan Kael Git Hub Stats](https://github-readme-stats.vercel.app/api?username=YohanKael&theme=dark)
@@ -14,3 +18,5 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </div>
   
+##
+
