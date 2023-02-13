@@ -11,7 +11,7 @@
 ![Yohan Kael Git Hub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanKael&theme=dark)
 
 
-## Tecnologias que estou habituado:
+## Tecnologias em que estou habituado:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
