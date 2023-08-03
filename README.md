@@ -22,7 +22,6 @@
   
 ## Meios de contato:
 <div>
-  <a href="mailto:yohankael.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
-  <div></div>
   ## yohankael.contato@gmail.com
+  <a href="mailto:yohankael.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
   </div>
